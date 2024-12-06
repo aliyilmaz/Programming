@@ -3,7 +3,7 @@
 1) Download and install the software from Python's official [website](https://www.python.org/).
 2) Open Windows command prompt and run the following command.
 ```cmd
-pip install --user virtualenv
+pip install virtualenv
 ```
 3) Open the project folder with the command client and run the command.
 ```cmd
