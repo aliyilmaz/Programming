@@ -5,3 +5,7 @@
 ```cmd
 python -m pip install --user virtualenv
 ```
+3) Open the project folder with the command client and run the command.
+```cmd
+python -m virtualenv env
+```
